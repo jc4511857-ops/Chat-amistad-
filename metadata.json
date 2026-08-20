@@ -1,0 +1,8 @@
+{
+  "name": "MexiLive Connect",
+  "description": "Meet women in Mexico using location-based live streams with secure card payments, instant messaging, and multimedia sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
